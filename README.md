@@ -4,7 +4,7 @@
 </p>
 
 <hr/>
-<h4 align="center">I am a student pursuing degree in BSC IT. I like to Code, Play football and read books in my free time. <br>I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge </h4>
+<h4 align="center">I am a student having degree in BSC IT. I like to Code, Play football and read books in my free time. <br>I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge </h4>
 <br>
 
 ## 🛠️ My Skills
